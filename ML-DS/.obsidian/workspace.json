@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Regression.md",
+                "file": "ML Algorithms/Linear Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Regression.md",
+                "file": "ML Algorithms/Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Regression.md",
+                "file": "ML Algorithms/Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Regression.md"
+                "file": "ML Algorithms/Linear Regression.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5aa2b888623a0e4",
+  "active": "c97a02c1ccea4edd",
   "lastOpenFiles": [
     "Welcome.md",
-    "Linear Regression.md",
+    "ML Algorithms/Linear Regression.md",
     "ML Algorithms"
   ]
 }
