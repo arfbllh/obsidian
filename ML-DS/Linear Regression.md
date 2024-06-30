@@ -1,6 +1,5 @@
 
 
-
 ## Five assumptions of Linear Regression
 ### 1. Linear Relationship between input and output
 ### 2. No Multicolinearity
